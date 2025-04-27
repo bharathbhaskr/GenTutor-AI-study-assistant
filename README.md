@@ -64,6 +64,8 @@ HUGGINGFACEHUB_API_TOKEN = "hf_your_token_here"
 ```
 **Note**: Keep your token private; do not push it to public repositories.
 
+Message us if you wnat to use the token
+
 ---
 
 ### 4. Prepare the Knowledge Base
